@@ -17,3 +17,21 @@ With ESG-KLI, we deliver a future-proof, fully automated solution:
              * Date of Adoption
              * Entry Into Force Date
 All data is then compiled into a clear, structured, and high-quality Excel file, ensuring that results are instantly usable for reporting, compliance monitoring, or integration with enterprise systems.
+
+✨ Key Features: 
+
+          * 🔄 End-to-End Automation — eliminates manual effort with one-click execution.
+          * 🌍 Multi-Jurisdiction Coverage — supports Europe, North America, and selected Asian countries.
+          * 📊 Excel Export — generates clean, high-quality Excel outputs for analysis and reporting.
+          * ⚡ Scalable Architecture — handles massive datasets without performance issues.
+          * 🛡️ Reliable & Future-Proof — designed to work long-term with minimal maintenance.
+          * 🧩 Modular Country Scripts — each country has its own script, making updates and scaling easier.
+          * ⏱️ Time & Cost Efficiency — reduces manual workload dramatically, saving both time and operational costs.
+
+🚀 Key Benefits for Clients:
+
+          ✔ Massive Time Savings — automation eliminates countless hours of manual searching and data entry.
+          
+          
+          
+         
