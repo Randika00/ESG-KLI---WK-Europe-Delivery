@@ -7,6 +7,12 @@ and selected Asian countries. In the past, local country teams had to manually s
 process was slow, repetitive, and prone to errors. 
 With ESG-KLI, we deliver a future-proof, fully automated solution:
 
-          * 🍲 Vast Recipe Collection: Explore a wide variety of recipes from different cuisines, with detailed instructions and ingredient lists.
-          * 🌐 Cross-Platform Compatibility: Access your favorite recipes on any device, thanks to robust multi-language support, including Dart, Swift, and Java.
-          * 📸 Recipe Gallery: Visualize your culinary journey with high-resolution images and step-by-step photo guides.
+          * Each country is equipped with a dedicated automation script tailored to its legal portals.
+          * Once triggered, the tool runs independently and captures large volumes of legal and compliance data in minutes.
+          * The automation process extracts and organizes all key information, including:
+             * Jurisdiction
+             * Original Title
+             * Source Link
+             * Type of Regulation
+             * Date of Adoption
+             * Entry Into Force Date
