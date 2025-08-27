@@ -16,3 +16,4 @@ With ESG-KLI, we deliver a future-proof, fully automated solution:
              * Type of Regulation
              * Date of Adoption
              * Entry Into Force Date
+All data is then compiled into a clear, structured, and high-quality Excel file, ensuring that results are instantly usable for reporting, compliance monitoring, or integration with enterprise systems.
