@@ -1,0 +1,413 @@
+ulykker,Accidents
+Regnskapsloven,Accounting Act
+Regnskapsdirektivet,Accounting Directive
+Tilpasning,Adaptation
+Tilleggsavgift,Additional Tax
+Justeringsmekanisme,Adjustment Mechanism
+Administrativt ansvar,Administrative Liability
+Berørte lokalsamfunn,Affected Communities
+Forurensning fra landbruket,Agricultural Pollution
+Landbrukssektoren,Agricultural Sector
+luftforurensning,Air Pollution
+Luftvern,Air Protection
+Luftkvalitet,Air Quality
+Standarder for luftkvalitet,Air Quality Standards
+Dyremishandling,Animal Abuse
+Dyrehelse og -velferd,Animal Health and Welfare
+Dyrevern,Animal Protection
+Dyrevelferd,Animal Welfare
+Årsregnskap,Annual Account
+Anti-bestikkelser,Anti-Bribery
+Antikorrupsjon,Anti-Corruption
+Anti-Money Laundering,Anti-Money Laundering
+Revisorloven,Auditor Act
+Fordeling av fordeler,Benefit Sharing
+Biologisk mangfold,Biodiversity
+Naturmangfoldloven,Biodiversity Act
+Bevaring av biologisk mangfold,Biodiversity Conservation
+Studiepoeng for biologisk mangfold,Biodiversity Credits
+Styrets sammensetning,Board Composition
+Representasjon fra styret,Board Representation
+Bestikkelsesloven,Bribery Act
+Bedrifter,Business Corporations
+Beskyttelse av bedrifter,Business Protection
+Karbon grense,Carbon Border
+Karbonbudsjetter,Carbon Budgets
+Karbonfangst,Carbon Capture
+Karbonmarkeder,Carbon Markets
+Karbonprising,Carbon Pricing
+Karbonhandel,Carbon Trading
+Kartellloven,Cartel Act
+Infrastruktur for lading,Charging Infrastructure
+Kjemiske faktorer,Chemical Factor
+Kjemikalieloven,Chemicals Act
+Forordningen om kjemikalier,Chemicals Ordinance
+Barnearbeid,Child Labor
+Barnearbeid,Child Labour
+Sirkulær økonomi,Circular Economy
+Sivilloven,Civil Code
+Sivilforsvar,Civil Protection
+Sivile fagforeninger,Civil Unions
+Lov om ren luft,Clean Air Act
+Regulering av rent drivstoff,Clean Fuel Regulation
+Klimaloven,Climate Act
+Klimatilpasning,Climate Adaptation
+Klimaavtale,Climate Agreement
+Klimaendring,Climate Change
+Rapportering om klima,Climate Disclosure
+Klimavern,Climate Protection
+Klimakvote,Climate Quota
+Rapportering av klimarisiko,Climate Risk Reporting
+Klimarisiko,Climate Risks
+Klimafokuserte skatteinsentiver,Climate-Focused Tax Incentives
+Klimarelaterte spørsmål,Climate-related Matters
+CO2-loven,CO2 Act
+CO2-reduksjon,CO2 Reduction
+Lov om forbud mot kull,Coal Ban Law
+Forvaltning av kystsoner,Coastal Zone Management
+Regler for forpliktelser,Code of Obligations
+Medbestemmelse,Co-Determination
+Medbestemmelsesloven,Codetermination Act
+Kollektive forhandlinger,Collective Bargaining
+Kollektiv investering,Collective investment
+Kollektive investeringer,Collective Investments
+Kommersiell kode,Commercial Code
+Kommersielle selskaper,Commercial Companies
+Kommisjonens delegerte,Commission Delegated
+Forpliktelse til miljøet,Commitment to the Environment
+Samfunnsengasjement,Community Engagement
+Aksjeloven,Companies Act
+Bedriftens pensjoner,Company Pensions
+Tilsyn med selskaper,Company supervision
+Konkurranseloven,Competition Act
+Konkurranserett,Competition Law
+Konføderasjonens personell,Confederation Personnel
+Konsolidert tekst,Consolidated text
+Grunnlov,Constitution
+Forbruker kode,Consumer Code
+Forbrukerbeskyttelse,Consumer protection
+Lover om forbrukerbeskyttelse,Consumer Protection Laws
+Forbrukere og sluttbrukere,Consumers and End-users
+Utbedring av forurenset land,Contaminated Land Remediation
+Forurenset jord,Contaminated soils
+Bedriftens avsløring,Corporate Disclosure
+Styring,Corporate Governance
+Samfunnsansvar,Corporate Social Responsibility
+Bedriftens bærekraft,Corporate Sustainability
+Bedriftens bærekraftsrapportering,Corporate Sustainability Reporting
+Åpenhet i bedriftene,Corporate Transparency
+Opprettelse og vekst,Creation and growth
+Kredittinstitusjon,Credit Institution
+Kredittinstitusjoner,Credit institutions
+Straffelov,Criminal Code
+Kriminell finansiering,Criminal Finance
+Straffeprosess,Criminal Procedure
+Krisehåndtering,Crisis Management
+Farlig gods,Dangerous Goods
+Datastyring,Data governance
+Personvern,Data Privacy
+Personvern,Data Protection
+Avskoging,Deforestation
+Digital innovasjon,Digital Innovation
+Digitale markeder,Digital Markets
+Funksjonshemmede,Disabled People
+Diskriminering,Discrimination
+Diskrimineringsloven,Discrimination Act
+Håndtering av tørke,Drought Management
+Aktsomhet,Due Diligence
+Årvåkenhetsplikt,Duty of Vigilance
+Økodesign,Ecodesign
+økodesignforskriften,Ecodesign Regulation
+Økonomiske konsekvenser,Economic consequences
+Økonomisk kriminalitet,Economic Crime
+Økonomiske virkninger,Economic Effects
+Økonomisk regulering,Economic Regulation
+Restaurering av økosystemer,Ecosystem Restoration
+Elektrisk energi,Electrical energy
+Elektrisitetsproduksjon,Electricity Generation
+Strømforsyning,Electricity Supply
+Beredskap,Emergency Preparedness
+Reduksjon av utslipp,Emission Reduction
+Ansattes pensjonering,Employee Retirement
+Arbeidskontrakter,Employment Contracts
+Likestilling i arbeidslivet,Employment Equity
+Beskyttelse i arbeidslivet,Employment Protection
+Beskyttelse av truede arter,Endangered Species Protection
+Energiloven,Energy Act
+Energi og klima,Energy and Climate
+Energirevisjon,Energy Audit
+Energieffektivitet,Energy Efficiency
+Energieffektive,Energy efficient
+Energi ytelse,Energy Performance
+Energiomstilling,Energy Transition
+Energi kjøretøy,Energy vehicles
+Miljø,Environment
+Miljøloven,Environment Act
+Miljø og planlegging,Environment and Planning
+Miljømessig,Environmental
+Miljøloven,Environmental Code
+Miljømessig helse og sikkerhet,Environmental Health and Safety
+Miljøinformasjons,Environmental Information
+Miljøspørsmål,Environmental Matter
+Miljøtillatelser,Environmental Permitting
+Miljøvern,Environmental Protection
+Miljøfarlig,Environmentally Hazardous
+Likestilling,Equal Opportunities
+Likelønn,Equal pay
+Lik representasjon,Equal representation
+Likebehandling,Equal Treatment
+Likebehandlingsloven,Equal Treatment Act
+Likestillingsloven,Equality Act
+Likestillings- og diskriminerings,Equality and Discrimination
+Likestillingsplaner,Equality plans
+Ergonomi,Ergonomics
+ESG-investering,ESG Investing
+ESG-vurdering,ESG Rating
+ESG-vurderinger,ESG Ratings
+Etisk forretningsførsel,Ethical Business Conduct
+For høy godtgjørelse,Excessive Remuneration
+Kompensasjon til ledere,Executive Compensation
+Eksplosiver,Explosives
+Utvidet produsentansvar,Extended Producer Responsibility
+Rettferdig tilgang,Fair access
+Rettferdig konkurranse,Fair Competition
+Rettferdig arbeidspraksis,Fair Labor Practices
+Rettferdig handelspraksis,Fair Trade Practices
+Falsk reklame,False Advertising
+F-gasser,F-gases
+Finansloven,Finance Act
+Finansiell rapportering,Financial Reporting
+Finansielle tjenester,Financial Services
+Finansiell tjenesteyting,Financial Services Sector
+finanstilsynsloven,Financial Supervision Act
+Fiskeriforvaltning,Fisheries Management
+Fiske,Fishing
+Brannfarlige stoffer,Flammables
+Tvangsarbeid,Forced Labor
+Tvangsarbeid og menneskehandel,Forced Labor and Human Trafficking
+Forebygging av tvangsarbeid,Forced Labor Prevention
+Tvangsarbeid,Forced Labour
+Skogloven,Forest Act
+Skogbrukslova,Forestry Act
+Fossilt brensel,Fossil Fuel
+Organisasjonsfrihet,Freedom of Association
+Utslipp av drivstoff,Fuel Emission
+Likestilling mellom kjønnene,Gender Equality
+Generell produktsikkerhet,General Product Safety
+Grønn obligasjon,Green Bond
+Grønne påstander,Green Claims
+Grønn økonomi,Green Economy
+Grønne offentlige anskaffelser,Green Public Procurement
+Drivhusgass,Greenhouse Gas
+Grunnvann,Groundwater
+Vekst og transformasjon,Growth and Transformation
+Landets vekst,Growth of the Country
+Restaurering av habitat,Habitat Restoration
+Helse og sikkerhet,Health and Safety
+Vurdering av konsekvenser for helse,Health Impact Assessment
+Menneskerettsloven,Human Rights Act
+Menneskehandel,Human Trafficking
+Lov om immisjonskontroll,Immission Control Act
+Investering i påvirkning,Impact Investing
+Inntektssikkerhet,Income Security
+Urfolk,Indigenous People
+Innendørs luftkvalitet,Indoor Air Quality
+Industrielle utslipp,Industrial Emissions
+Industriell energieffektivitet og revisjoner,Industrial Energy Efficiency and Audits
+Reduksjon av inflasjon,Inflation Reduction
+Tilgjengeliggjøring,Information disclosure
+Utvikling av infrastruktur,Infrastructure Development
+Krav til infrastruktur,Infrastructure Requirements
+Forsikringsselskap,Insurance Company
+Interne kontroller,Internal Controls
+Kontroll av invasive arter,Invasive Species Control
+Investere,Investing
+Investeringsrådgivere,Investment Advisers
+Investeringskode,Investment Code
+Investeringsselskap,Investment Company
+Investeringstjenester,Investment services
+Labour Act,Labor Act
+Landrettigheter,Land Rights
+Planlegging av arealbruk,Land Use Planning
+Lederstilling,Leadership Position
+Børsnoterte selskaper,Listed Companies
+Langsiktige aksjonærer,Long-term Sharesholders
+Sjøfartsloven,Marine Act
+Tilgang til hav og kyst,Marine and Coastal Access
+Havforurensning,Marine Pollution
+Marine verneområder,Marine Protected Areas
+Havressurs,Marine Resources
+Markedsmisbruk,Market Abuse
+Markedsinfrastrukturer,Market infrastructures
+Markedsføringsloven,Marketing Act
+Materialeffektivitet,Material Efficiency
+Fødsel og farskap,Maternity and Paternity
+Psykisk helse,Mental Health
+Kvikksølv,Mercury
+Mineraler og metaller,Minerals and Metals
+Minstelønn,Minimum Wage
+Villedende reklame,Misleading Advertising
+Moderne slaveri,Modern Slavery
+Modernisering av det økonomiske liv,Modernisation of Economic Life
+Hvitvaskings,Money Laundering
+Hvitvasking av penger,Money Laundering Offences
+Nasjonal energi,National Energy
+Nasjonal gjenoppretting,National Recovery
+Nasjonalt bestemte bidrag,Nationally Determined Contributions
+Naturlig risiko,Natural Risk
+Naturvern,Nature Conservation
+Netto null industri,Net-Zero Industry
+Ingen retningslinjer for nettotap,No Net Loss Policy
+Støygrenser,Noise Limits
+Støyreduserende tiltak,Noise Mitigation Measures
+Ikke-diskriminering,Non-Discrimination
+Ikke-finansiell avsløring,Non-financial Disclosure
+Ikke-finansiell informasjon,Non-financial Information
+Ikke-finansiell karakter,Non-financial Nature
+Ikke-finansiell rapportering,Non-Financial Reporting
+Helse og sikkerhet på arbeidsplassen,Occupational Health and Safety
+Lov om havvind,Offshore Wind Energy Act
+Operativ robusthet,Operational resilience
+Egen arbeidsstyrke,Own Workforce
+Emballasjeprodusentens ansvar,Packaging Producer Responsibility
+Straffeloven,Penal Code
+Pensjonsordninger,Pension plans
+Standarder for ytelse,Performance Standards
+Planloven,Planning Act
+Forebygging av plastforurensning,Plastic Pollution Prevention
+Beskyttelse av pollinatorer,Pollinator Protection
+Forurensning,Pollution
+Forurensningsloven,Pollution Act
+Prissetting av forurensning,Pollution Pricing
+Forurensningsforskriften,Pollution Regulations
+Prioritert art,Priority Species
+Private verdipapirer,Private Securities
+Utbytte fra kriminalitet,Proceeds of Crime
+Anskaffelsesloven,Procurement Act
+Produktkontrol,Product Control
+Produktdesign og produksjon,Product Design and Manufacturing
+Produkt merking,Product Labeling
+Tilbakekalling av produkt,Product Recall
+Produktsikkerhet,Product Safety
+Lov om produktsikkerhet,Product Safety Act
+Likestilling i profesjonen,Professional Equality
+Profesjonell fremtid,Professional Future
+Utpeking av verneområde,Protected Area Designation
+Beskyttelse av konkurranse,Protection of Competition
+Beskyttelse av naturen,Protection of Nature
+Beskyttelse av personer,Protection of Persons
+Offentlig høring,Public Consultation
+Offentlige kontrakter,Public Contracts
+Offentliggjøring av offentlig interesse,Public Interest Disclosure
+Allmennaksje,Public Limited Companies
+Offentlige anskaffelser,Public Procurement
+Kvalitetsutvikling,Quality Development
+Råvarer,Raw Materials
+Forskrift om taksonomi,Regulation on taxonomy
+Regulatorisk omorganisering,Regulatory Reorganization
+Eksternt arbeid,Remote work
+Fornybar energi,Renewable Energies
+Mål for fornybar energi,Renewable Energy Targets
+Fornybare kilder,Renewable sources
+Undertrykkelse av korrupsjon,Repression on Corruption
+Ressurseffektivitet,Resource Efficiency
+Ansvarlig forvaltning,Responsible Investment
+Aksjonærers rettigheter,Rights of shareholders
+Risikovurdering,Risk Assessment
+Risikostyring,Risk Management
+Sanksjonsloven,Sanctions Act
+Sparebanker,Savings Banks
+Securites Administratorer,Securites Administrators
+Verdipapirloven,Securities Act
+Verdipapirbørs,Securities Exchange
+Handel med verdipapirer,Securities Trading
+Selvstendig næringsdrivende,Self-employment
+Alvorlige kjemiske ulykker,Serious Chemical Accidents
+Aksjonærers rettigheter,Shareholder Rights
+Forurensning fra skip,Ship-Source Pollution
+Kompetanseutvikling,Skills Development
+Sosialt foretak,Social Enterprise
+Sosial konsekvensvurdering,Social Impact Assessment
+Sosial sårbarhet,Social vulnerability
+Jordvern,Soil Conservation
+Beskyttelse av jord,Soil Protection
+Standarder for jordkvalitet,Soil Quality Standards
+Arealplanlegging,Spatial Planning
+Stabilitetsloven,Stability Law
+Lovpålagt revisjon,Statutory Audits
+Overvannshåndtering,Stormwater Management
+Leverandørrevisjoner og overvåking,Supplier Audits and Monitoring
+Etiske retningslinjer for leverandører,Supplier Code of Conduct
+Forsyningskjeden,Supply Chain
+Regnskap for bærekraft,Sustainability Accounting
+Rapportering om bærekraft,Sustainability Disclosure
+Aktsomhetsvurderinger for bærekraft,Sustainability Due Diligence
+Informasjon om bærekraft,Sustainability information
+Investering i bærekraft,Sustainability Investing
+Rapportering av bærekraft,Sustainability Reporting
+Standarder for bærekraft,Sustainability Standards
+Bærekraftsrelaterte opplysninger,Sustainability-related Disclosures
+Bærekraftig forbruk,Sustainable Consumption
+Bærekraftig utvikling,Sustainable Development
+Bærekraftig økonomi,Sustainable economy
+Bærekraftig finans,Sustainable Finance
+Bærekraftig internasjonal virksomhet,Sustainable International Business
+Bærekraftige investeringer,Sustainable Investments
+Bærekraftig materialhåndtering,Sustainable Materials Management
+Bærekraftig produksjonspraksis,Sustainable Production Practices
+Bærekraftige produkter,Sustainable Products
+bærekraftige produkter-loven,Sustainable Products Act
+Arbeidsgruppe for klimarelatert finansiell rapportering,Task Force on Climate-Related Financial Disclosures
+Skattemessige forhold,Tax Matters
+Åpenhet om skatt,Tax Transparency
+Avgifter på miljøgrunnlag,Taxes on an Environmental Basis
+Taksonomi,Taxonomy
+Regulering av taksonomi,Taxonomy Regulation
+Tredje sektors kode,Third Sector Code
+Enheter i tredje sektor,Third Sector Entities
+Handel med tømmer,Timber Trade
+Fagforeningsfrihet,Trade Union Freedom
+Grenseoverskridende vannforvaltning,Transboundary Water Management
+åpenhetsloven,Transparency Act
+Åpenhet og offentliggjøring,Transparency and Disclosure
+Urettferdig reklame,Unfair Commercial
+Urettferdig konkurranse,Unfair Competition
+Urimelig handelspraksis,Unfair Trade Practice
+Ubemannede fly,Unmanned aircraft
+ValueAct Vår,ValueAct Spring
+Utslippsstandarder for kjøretøy,Vehicle Emissions Standards
+Vold og trakassering,Violence and Harrassment
+Varmblodig dyreliv,Warm-blooded Wildlife
+Avfallsforordning,Waste Ordinance
+Reduksjon av avfall,Waste Reduction
+Avfallsforskriften,Waste Regulation
+Rensing av avløpsvann,Wastewater Treatment
+Tildeling av vann,Water Allocation
+Vann og marine ressurser,Water and Marine Resources
+Vannsparing,Water Conservation
+Vanneffektivitet,Water Efficiency
+Vann-nødsituasjon,Water Emergency
+Vannmiljø,Water Environment
+Vanninfrastruktur,Water Infrastructure
+Vannforvaltningen,Water Management
+Prising av vann,Water Pricing
+Beskyttelse av vann,Water Protection
+Vannkvalitet,Water Quality
+Vannressurs,Water Resource
+Forvaltning av vannressurser,Water Resource Management
+Vannressurser,Water Resources
+Effektiv vannbruk,Water Use Efficiency
+Vannrelaterte risikoer og muligheter,Water-related Risks and Opportunities
+Dyrevelferd,Welfare of Animals
+Vern av varslere,Whistleblower Protection
+Varsling,Whistleblowing
+Handel med ville dyr,Wildlife Trade
+Arbeidsmiljø,Work Environment
+Arbeidere i verdikjeden,Workers in the Value Chain
+Arbeidsstyrkens praksis,Workforce Practices
+Arbeidsmiljøloven,Working Environment Act
+Arbeidstid,Working Hours
+Arbeidsliv,Working Life
+Arbeidstid,Working Time
+Balanse mellom arbeid og privatliv,Work-life Balance
+Kjønn på arbeidsplassen,Workplace Gender
